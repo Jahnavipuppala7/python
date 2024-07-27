@@ -1,2 +1,2 @@
 num=int(input())
-print("The Ascii value is:"ord(num))
+print("The Ascii value is:",ord(num))
