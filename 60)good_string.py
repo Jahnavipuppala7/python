@@ -20,3 +20,4 @@ for i in name:
             prev=ord(sorted_string[ind])
             sumy+=d2
 print(sumy)
+
